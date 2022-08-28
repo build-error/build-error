@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @build-error
+- 👋 Hi, I’m Aryan Singh a.k.a. @build-error
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on Robotics related projects
