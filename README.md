@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Robotic Arm Project with Visual Servoing<br>
 👯 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
-🌱 I’m currently learning Pyserial, VPython(GlowScript) <br>
-💬 Ask me about Robotics, Machine Learning, Computer Vision, TensorFlow, Keras
+🌱 I’m currently learning Pyserial, VPython(GlowScript), TensorFlow, Keras <br>
+💬 Ask me about Robotics, Machine Learning, Computer Vision
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/9614) 
