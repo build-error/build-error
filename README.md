@@ -1,4 +1,4 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.1/green)](https://drive.google.com/file/d/1X7Iutr_haCkuLP3aUQLNk4Kk9-JlFH3c/view?usp=sharing):
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.1/green)](https://drive.google.com/file/d/1X7Iutr_haCkuLP3aUQLNk4Kk9-JlFH3c/view?usp=sharing) :
 🤖 I’m currently working on Robotic Arm Project with Visual Servoing<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning Pyserial, VPython(GlowScript), TensorFlow, Keras <br>
