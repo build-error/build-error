@@ -1,11 +1,10 @@
-# 🐼 About Me 🐼:
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.1/green)](https://drive.google.com/file/d/1X7Iutr_haCkuLP3aUQLNk4Kk9-JlFH3c/view?usp=sharing):
 🤖 I’m currently working on Robotic Arm Project with Visual Servoing<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning Pyserial, VPython(GlowScript), TensorFlow, Keras <br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision
 
 ## 🌐 Socials:
-[![Resume](https://badgen.net/badge/Resume/v1.8.1/green)](https://drive.google.com/file/d/1X7Iutr_haCkuLP3aUQLNk4Kk9-JlFH3c/view?usp=sharing)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/9614) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/build_error_here) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-ab7b92202) 
