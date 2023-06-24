@@ -3,6 +3,7 @@
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning Pyserial, VPython(GlowScript), TensorFlow, Keras <br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision
+😎 Want to learn more about Me ? [![Resume](https://badgen.net/#badge/Resume/v1.8.1/green)](https://drive.google.com/file/d/1X7Iutr_haCkuLP3aUQLNk4Kk9-JlFH3c/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/9614) 
