@@ -1,5 +1,5 @@
 # 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.4/green)](https://drive.google.com/file/d/1bl1PcZFeNAlBwHvw_ahV4hKn1BX-EZyi/view?usp=sharing) :
-🤖 I’m currently working on as a Robotics intern @CSKA Automation<br>
+🤖 I’m currently working on as a Project Head @IEEE BPIT<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning about Internet Of Things, ESP32, 3D printing, Robotic Arm Development, etc ...<br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision, Internet Of Things
