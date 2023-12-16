@@ -1,4 +1,4 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.4/green)](https://drive.google.com/file/d/1bl1PcZFeNAlBwHvw_ahV4hKn1BX-EZyi/view?usp=sharing) :
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.6/green)](https://drive.google.com/file/d/1DZjJEbqni1BTMhxEN1oUbgh5gy0R9leQ/view?usp=sharing) :
 🤖 I’m currently working on as a Project Head @IEEE BPIT<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning about Internet Of Things, ESP32, 3D printing, Robotic Arm Development, etc ...<br>
