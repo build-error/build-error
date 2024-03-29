@@ -1,4 +1,4 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v1.8.6/green)](https://drive.google.com/file/d/1DZjJEbqni1BTMhxEN1oUbgh5gy0R9leQ/view?usp=sharing) :
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v2.0.1/green)](https://drive.google.com/file/d/19jUKi_I4MeVKB_-wegUQsH4BhGNENFpA/view?usp=sharing) :
 🤖 I’m currently working as a Research Intern @IIT Delhi<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, Motion Planning, ROS2, etc ...<br>
@@ -9,7 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/build_error_here) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-ab7b92202) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/build_error) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15241323/build-error) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/build_error_live) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15241323/build-error) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/build_error_live) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/error_build) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC04zAalDnvuASGJzJnpJJRQ) 
 
