@@ -1,7 +1,7 @@
 # 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v2.0.1/green)](https://drive.google.com/file/d/19jUKi_I4MeVKB_-wegUQsH4BhGNENFpA/view?usp=sharing) :
 🤖 I’m currently working as a Research Intern @IIT Delhi<br>
-👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, Motion Planning, ROS2, etc ...<br>
+👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision, Internet Of Things
 
 ## 🌐 Socials:
