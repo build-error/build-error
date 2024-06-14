@@ -1,5 +1,5 @@
 # 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v2.1.0/green)](https://drive.google.com/file/d/1nXiJ5zKPtAOX3EtbZvs73om8Lxv1j-dQ/view?usp=sharing) :
-🤖 I’m currently working as a Research Intern @IIT Delhi<br>
+🤖 I’m an incoming Visiting Student Researcher @Carleton Univeristy, Ottawa, Canada<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, Motion Planning, ROS2, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision, Internet Of Things
