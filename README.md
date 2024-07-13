@@ -1,4 +1,4 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v2.1.0/green)](https://drive.google.com/file/d/1nXiJ5zKPtAOX3EtbZvs73om8Lxv1j-dQ/view?usp=sharing) :
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.0/green)](https://drive.google.com/file/d/15c-N6FPinM3AKA-Ov423saIKpoTNaRk5/view?usp=sharing) :
 🤖 I’m currently working as "Visiting Student Researcher" @Carleton Univeristy, Ottawa, Canada<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, ROS2, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS2, MoveIt, etc...<br>
