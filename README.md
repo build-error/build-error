@@ -1,5 +1,5 @@
 # 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.0/green)](https://drive.google.com/file/d/15c-N6FPinM3AKA-Ov423saIKpoTNaRk5/view?usp=sharing) :
-🤖 I’m currently working as a Research Collaborator @ Carleton University
+🤖 I’m currently working as a Research Collaborator @ Carleton University <br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, ROS, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS, SLAM, etc...<br>
 🐶 Ask me about Robotics, Machine Learning, Computer Vision, Internet Of Things
