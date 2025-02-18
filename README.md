@@ -1,9 +1,9 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.1/green)](https://drive.google.com/file/d/1NZsFfi-B4-G2_v5I3Aj-RAkEhpaPRVzg/view?usp=sharing) :
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.4/green)](https://drive.google.com/file/d/1V7M5sCiz0b1M5ej7_bv2d8EgMGmUY0Qe/view?usp=sharing) :
 
 🤖 I’m currently working as a Research Collaborator @ Carleton University and Reserach Intern @ IIT Delhi<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, ROS, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS, SLAM, etc...<br>
-🐶 Ask me about Robotics, Machine Learning, Computer Vision, Internet Of Things
+🐶 Ask me about Robotics, Visual SLAM, Machine Learning, Computer Vision, Internet Of Things
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/9614) 
