@@ -1,6 +1,6 @@
 # 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.5/green)](https://drive.google.com/file/d/1KhFSrPBdy1NKQLynrt5AMizz5Iw0f_tS/view?usp=sharing) :
 
-🤖 I’m currently working as a Research Collaborator @ Carleton University and Reserach Intern @ IIT Delhi<br>
+🤖 I’m currently working as a Research Collaborator @ Carleton University and Reserach Assistant @ IIT Delhi<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, ROS, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS, SLAM, etc...<br>
 🐶 Ask me about Robotics, Visual SLAM, Machine Learning, Computer Vision, Internet Of Things
