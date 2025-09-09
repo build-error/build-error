@@ -1,4 +1,6 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.5/green)](https://drive.google.com/file/d/1KhFSrPBdy1NKQLynrt5AMizz5Iw0f_tS/view?usp=sharing) :
+# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.6/green)](https://drive.google.com/file/d/1sOjnRNa7i8pz5Fxky-bW9oGt7itlvT-d/view?usp=sharing) :
+
+
 
 🤖 I’m currently working as a Research Collaborator @ Carleton University and Reserach Assistant @ IIT Delhi<br>
 ⚙️ I’m currently learning about Visual SLAM, Autonomous Navigation, ROS, etc ...<br>
