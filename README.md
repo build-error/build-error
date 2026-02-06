@@ -2,7 +2,7 @@
 
 
 
-🤖 I’m currently working as a Research Collaborator @ Carleton University and Reserach Associate @ IIT Delhi<br>
+🤖 I’m currently working towards next phase of life, will update when necessary<br>
 ⚙️ I’m currently learning about Visual SLAM, Object Detection, Autonomous Navigation, ROS, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS, SLAM, etc...<br>
 🐶 Ask me about Robotics, Visual SLAM, Machine Learning, Computer Vision, Internet Of Things
