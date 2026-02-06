@@ -1,5 +1,4 @@
-# 🐼 About Me 🐼 [![Resume](https://badgen.net/badge/Resume/v3.6/green)](https://drive.google.com/file/d/1Y943CERgpT0151yCXXEJITOO2enjGvxR/view?usp=sharing) :
-
+# 🐼 About Me 🐼
 
 
 🤖 I’m currently working towards next phase of life, will update when necessary<br>
