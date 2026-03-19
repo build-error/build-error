@@ -1,10 +1,10 @@
 # 🐼 About Me 🐼
 
 
-🤖 I’m currently working towards next phase of life, will update when necessary<br>
-⚙️ I’m currently learning about Visual SLAM, Object Detection, Autonomous Navigation, ROS, etc ...<br>
+🤖 I’m will be starting Graduate school @ CarletonU, Department of System and Computer Engineering<br>
+⚙️ I’m currently learning about Visual Servoing, PID, MPC, Object Detection, Autonomous Navigation, ROS, etc ...<br>
 👨‍💻 I’m looking to collaborate on any project in related to robotics technologies such as Gazebo, ROS, SLAM, etc...<br>
-🐶 Ask me about Robotics, Visual SLAM, Machine Learning, Computer Vision, Internet Of Things
+🐶 Ask me about Robotics, Controls, Visual SLAM, Machine Learning, Computer Vision, Internet of Things
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/9614) 
